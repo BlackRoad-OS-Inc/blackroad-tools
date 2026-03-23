@@ -1,3 +1,11 @@
+# blackroad-tools
+
+> BlackRoad Tools - ERP, CRM, manifest profiler, cluster builders, and DevOps utilities
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad Prism Console - Tools
 
 Production-grade integration tools for CRM, ERP, and automation workflows.
